@@ -1,4 +1,4 @@
-package go-yr
+package yr
 
 import (
 	"github.com/stretchr/testify/assert"
