@@ -1,4 +1,4 @@
-go-yr : Go interface for the yr.no API
+yr : Go interface for the yr.no API
 ======
 
 Please read their terms and conditions on
