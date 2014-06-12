@@ -1,4 +1,4 @@
-package go-yr
+package yr
 
 import (
 	"encoding/xml"
